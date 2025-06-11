@@ -20,7 +20,7 @@ A Python-based multi-agent system that performs mathematical operations on array
   - openai
   - python-dotenv
   - pydantic
-  - agents (custom package)
+  - openai-agents (custom package)
 
 ## Installation
 
