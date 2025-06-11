@@ -25,8 +25,10 @@ A Python-based multi-agent system that performs mathematical operations on array
 ## Installation
 
 1. Clone the repository
-2. Install dependencies:
+2. Create environment and Install dependencies:
    ```bash
+   conda create --name agents python=3.11
+   conda activate agents
    pip install -r requirements.txt
    ```
 3. Set up your environment variables in a `.env` file (if needed)
